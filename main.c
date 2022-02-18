@@ -1,8 +1,11 @@
 #include <stdio.h>
 
+int super_new_function() {
+	return 42;
+}
+
 int main() {
-	
-	printf("The main thing in programming is peepee poopoo");
+	printf("Hello, world\n");
 	return 0;
 }
 
